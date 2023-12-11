@@ -1,1 +1,1 @@
-###### This project aimed to understand the reasons behind the housing crisis in New Brunswick and the challenges the locals face to afford a new house. This group project won 2nd runner-up in the Data Challenge Competition held by the University of New Brunswick. Below is the attached Infographic & PPT.
+
